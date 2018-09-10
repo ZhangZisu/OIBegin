@@ -1,0 +1,12 @@
+{
+  "name": "OIBegin",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/GCC314/OIBegin.git",
+  "author": "ZhangZisu <admin@zhangzisu.cn>",
+  "license": "GPLv3",
+  "dependencies": {
+    "lodash": "^4.17.10",
+    "promptly": "^3.0.3"
+  }
+}
