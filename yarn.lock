@@ -2,27 +2,25 @@
 # yarn lockfile v1
 
 
+kleur@^2.0.1:
+  version "2.0.2"
+  resolved "http://registry.npm.taobao.org/kleur/download/kleur-2.0.2.tgz#b704f4944d95e255d038f0cb05fb8a602c55a300"
+  integrity sha1-twT0lE2V4lXQOPDLBfuKYCxVowA=
+
 lodash@^4.17.10:
   version "4.17.10"
   resolved "http://registry.npm.taobao.org/lodash/download/lodash-4.17.10.tgz#1b7793cf7259ea38fb3661d4d38b3260af8ae4e7"
+  integrity sha1-G3eTz3JZ6jj7NmHU04syYK+K5Oc=
 
-mute-stream@~0.0.4:
-  version "0.0.7"
-  resolved "http://registry.npm.taobao.org/mute-stream/download/mute-stream-0.0.7.tgz#3075ce93bc21b8fab43e1bc4da7e8115ed1e7bab"
-
-pify@^3.0.0:
-  version "3.0.0"
-  resolved "http://registry.npm.taobao.org/pify/download/pify-3.0.0.tgz#e5a4acd2c101fdf3d9a4d07f0dbc4db49dd28176"
-
-promptly@^3.0.3:
-  version "3.0.3"
-  resolved "http://registry.npm.taobao.org/promptly/download/promptly-3.0.3.tgz#e178f722e73d82c60d019462044bccfdd9872f42"
+prompts@^1.1.1:
+  version "1.1.1"
+  resolved "http://registry.npm.taobao.org/prompts/download/prompts-1.1.1.tgz#c687590e472c08cd84cfa4b8694b1cab5de45144"
+  integrity sha1-xodZDkcsCM2Ez6S4aUscq13kUUQ=
   dependencies:
-    pify "^3.0.0"
-    read "^1.0.4"
+    kleur "^2.0.1"
+    sisteransi "^1.0.0"
 
-read@^1.0.4:
-  version "1.0.7"
-  resolved "http://registry.npm.taobao.org/read/download/read-1.0.7.tgz#b3da19bd052431a97671d44a42634adf710b40c4"
-  dependencies:
-    mute-stream "~0.0.4"
+sisteransi@^1.0.0:
+  version "1.0.0"
+  resolved "http://registry.npm.taobao.org/sisteransi/download/sisteransi-1.0.0.tgz#77d9622ff909080f1c19e5f4a1df0c1b0a27b88c"
+  integrity sha1-d9liL/kJCA8cGeX0od8MGwonuIw=
