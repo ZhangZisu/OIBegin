@@ -1,4 +1,7 @@
 # OIBegin
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/ZhangZisu/OIBegin.svg)](https://greenkeeper.io/)
+
 ## Begin NOIP tests simulator for beginners written by beginners.
 
 
