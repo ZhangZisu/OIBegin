@@ -7,6 +7,6 @@
   "license": "GPLv3",
   "dependencies": {
     "lodash": "^4.17.10",
-    "prompts": "^1.1.1"
+    "prompts": "^2.0.0"
   }
 }
